@@ -1,5 +1,12 @@
 ---
-title: Introduction to UX Design
+title: 'Introduction to UX Design'
+horizontal: false
+hide_page_title: false
+show_sidebar: true
+hide_git_sync_repo_link: false
+shortcodes: true
+hide_title: false
+display_custom_links: false
 ---
 
 [.text: alignment(center)]
